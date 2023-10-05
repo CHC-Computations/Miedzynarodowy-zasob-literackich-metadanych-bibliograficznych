@@ -88,4 +88,15 @@ Total Records: Over 4.5 million
 
 ![obraz](https://github.com/CHC-Computations/Powiazane-metadane-Biblioteki-Nauki-i-Biblioteki-Narodowej/assets/94934717/dbd3bf61-3ed7-4d50-b661-5c33b805ad57)
 
+# Where to Find Our full Collections
+- Platform: Zenodo
+- Accessibility: Open Access, freely available to all
+- License: CC0 - No rights reserved, free for various uses
+- Data Format: MARC21 with enriched VIAF identifiers
+- Ideal for: Researchers, Institutions, Data Analysts, Librarians
+
+![obraz](https://github.com/CHC-Computations/Miedzynarodowy-zasob-literackich-metadanych-bibliograficznych/assets/94934717/44d8274b-5b84-4d48-b2f7-5abfe77614b1)
+
+
+
 
