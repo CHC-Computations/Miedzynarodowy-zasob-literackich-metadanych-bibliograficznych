@@ -24,6 +24,7 @@ The scope of this endeavor extends beyond data collection to data enrichment. Th
 ## Key Features of the Metadata Resource
 
 The repository is not only extensive but also precise and standardized. VIAF Identifiers have been integrated within the data for Institutions, Authors, and Subject Headings from field 600. Standardized genres and subject headings are prominently featured, ensuring a coherent and globally recognized categorization. Rectification of omissions by adding missing ISSN and standardizing journal names has been carried out, thereby facilitating streamlined source identification and academic usage.
+![alt text](https://github.com/CHC-Computations/Miedzynarodowy-zasob-literackich-metadanych-bibliograficznych/blob/main/elb.png)
 
 ## Data Unification Process
 
