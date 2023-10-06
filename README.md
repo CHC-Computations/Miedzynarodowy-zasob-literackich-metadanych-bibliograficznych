@@ -14,6 +14,7 @@ This endeavor transcends national boundaries, aggregating data from Czech, Polis
 ## Data Acquisition and Selection Criteria
 
 The data curation process involved obtaining bibliographic records in MARC21 format via data dumps and APIs, utilizing the Universal Decimal Classification alongside subject headings and genres to filter and extract data. For Finnish literary data, additional aid was sought from [www.finto.fi](http://www.finto.fi). Spanish articles, initially in Dublin Core format from the Dialnet database, were meticulously converted to the MARC21 format to ensure a uniform data structure across the repository.
+![alt text](https://github.com/CHC-Computations/Miedzynarodowy-zasob-literackich-metadanych-bibliograficznych/blob/main/sources.png?raw=true)
 
 
 ## Enrichment of Metadata
