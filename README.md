@@ -1,5 +1,7 @@
 ![alt text](https://github.com/CHC-Computations/Harmonize/blob/main/logo-1.png?raw=true)
-# Międzynarodowy zasób literackich metadanych bibliograficznych
+# International resource of literary bibliographic metadata
+
+
 
 
 
