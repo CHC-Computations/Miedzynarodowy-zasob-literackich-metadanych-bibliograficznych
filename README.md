@@ -1,9 +1,9 @@
 ![alt text](https://github.com/CHC-Computations/Harmonize/blob/main/logo-1.png?raw=true)
 # Międzynarodowy zasób literackich metadanych bibliograficznych
 
-![alt_text](https://github.com/CHC-Computations/Harmonize/blob/main/Zrzut%20ekranu%202022-12-19%20o%2017.48.49.png?raw=true)
+
+
 # Introduction to Our Bibliographic Metadata Collection
-# Introduction to the Bibliographic Metadata Collection
 
 The **Literary Bibliography Research Infrastructure (LiBRI)** emerged from a collaborative initiative between the *Czech Literary Bibliography (Institute of Czech Literature, Czech Academy of Sciences, Prague)* and the *Polish Literary Bibliography (Institute for Literary Research, Polish Academy of Sciences, Warsaw)*. The fundamental objective is to compile, harmonize, and provide access to bibliographical databases for the expansive domain of literary studies.
 
@@ -13,7 +13,8 @@ This endeavor transcends national boundaries, aggregating data from Czech, Polis
 
 ## Data Acquisition and Selection Criteria
 
-The data curation process involved obtaining bibliographic records in MARC21 format via data dumps and APIs, utilizing the Universal Decimal Classification alongside subject headings and genres to filter and extract Finnish literary data from [www.finto.fi](http://www.finto.fi). Spanish articles, initially in Dublin Core format from the Dialnet database, were meticulously converted to the MARC21 format to ensure a uniform data structure across the repository.
+The data curation process involved obtaining bibliographic records in MARC21 format via data dumps and APIs, utilizing the Universal Decimal Classification alongside subject headings and genres to filter and extract data. For Finnish literary data, additional aid was sought from [www.finto.fi](http://www.finto.fi). Spanish articles, initially in Dublin Core format from the Dialnet database, were meticulously converted to the MARC21 format to ensure a uniform data structure across the repository.
+
 
 ## Enrichment of Metadata
 
@@ -35,7 +36,7 @@ The potential applications of the carefully curated and enriched metadata are va
 
 The collections are openly accessible on the [Zenodo platform](https://zenodo.org), under the liberal CC0 license, permitting a wide range of usages. The data, structured in the MARC21 format and enriched with VIAF identifiers, stands as a powerful resource for the academic and research community.
 
-
+![alt_text](https://github.com/CHC-Computations/Harmonize/blob/main/Zrzut%20ekranu%202022-12-19%20o%2017.48.49.png?raw=true)
 
 
 
