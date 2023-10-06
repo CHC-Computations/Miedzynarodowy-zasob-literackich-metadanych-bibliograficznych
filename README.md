@@ -29,7 +29,7 @@ The repository is not only extensive but also precise and standardized. VIAF Ide
 
 In the pursuit of data excellence, a process to unify data about authors and sources based on external identifiers like VIAF and ISSN was initiated. The unification began with Polish data, integrating the Polish Literary Bibliography with the National Library of Poland, and subsequently extended to all sources to ensure a harmonized and enriched data landscape.
 ![alt text](https://github.com/CHC-Computations/Miedzynarodowy-zasob-literackich-metadanych-bibliograficznych/blob/main/issn.png)
-
+![alt_text](https://github.com/CHC-Computations/Miedzynarodowy-zasob-literackich-metadanych-bibliograficznych/blob/main/viaf.png)
 ## Utilization of This Resource
 
 The potential applications of the carefully curated and enriched metadata are vast. It serves as a robust foundation for databases, aiding in bibliography creation, data linking & integration, data analysis & visualization, and much more. The data is freely available on the [Zenodo platform](https://zenodo.org) under a CC0 license, inviting researchers, institutions, data analysts, librarians, and software developers to explore and utilize the literary metadata.
@@ -39,7 +39,7 @@ The potential applications of the carefully curated and enriched metadata are va
 The collections are openly accessible on the [Zenodo platform](https://zenodo.org), under the liberal CC0 license, permitting a wide range of usages. The data, structured in the MARC21 format and enriched with VIAF identifiers, stands as a powerful resource for the academic and research community.
 
 ![alt_text](https://github.com/CHC-Computations/Harmonize/blob/main/Zrzut%20ekranu%202022-12-19%20o%2017.48.49.png?raw=true)
-![alt_text](https://github.com/CHC-Computations/Miedzynarodowy-zasob-literackich-metadanych-bibliograficznych/blob/main/viaf.png)
+
 
 
 
