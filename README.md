@@ -2,9 +2,6 @@
 # International resource of literary bibliographic metadata
 
 
-
-
-
 # Introduction to Our Bibliographic Metadata Collection
 
 The **Literary Bibliography Research Infrastructure (LiBRI)** emerged from a collaborative initiative between the *Czech Literary Bibliography (Institute of Czech Literature, Czech Academy of Sciences, Prague)* and the *Polish Literary Bibliography (Institute for Literary Research, Polish Academy of Sciences, Warsaw)*. The fundamental objective is to compile, harmonize, and provide access to bibliographical databases for the expansive domain of literary studies.
