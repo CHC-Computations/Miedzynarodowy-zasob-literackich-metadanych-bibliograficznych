@@ -36,7 +36,7 @@ The potential applications of the carefully curated and enriched metadata are va
 
 ## Accessibility and Licensing
 
-The collections are openly accessible on the [Zenodo platform](https://zenodo.org), under the liberal CC0 license, permitting a wide range of usages. The data, structured in the MARC21 format and enriched with VIAF identifiers, stands as a powerful resource for the academic and research community.
+The collections are openly accessible on the [Zenodo platform](https://zenodo.org), under the liberal CC0 license, permitting a wide range of usages. The data, structured in the MARC21 format and enriched with VIAF identifiers, stands as a powerful resource for the academic and research community. The sources of all files, with the exception of: czech_articles_sample.mrk, czech_books_sample.mrk, czech_chapters_sample.mrk, are licensed under CC0 (license links: https://www.kiwi.fi/display/Datacatalog/Fennica https://www.bne.es/es/servicios/servicios-para-bibliotecarios/suministro-registros/descarga-ficheros https://dane.gov.pl/pl/dataset/467,databnorgpl).
 
 ![alt_text](https://github.com/CHC-Computations/Harmonize/blob/main/Zrzut%20ekranu%202022-12-19%20o%2017.48.49.png?raw=true)
 
