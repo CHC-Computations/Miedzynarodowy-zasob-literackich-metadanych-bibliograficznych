@@ -1,6 +1,6 @@
 ![alt text](https://github.com/CHC-Computations/Harmonize/blob/main/logo-1.png?raw=true)
 # International resource of literary bibliographic metadata
-![alt text](https://github.com/CHC-Computations/Miedzynarodowy-zasob-literackich-metadanych-bibliograficznych/blob/main/literary-metadata.svg?raw=true)
+![alt text](https://github.com/CHC-Computations/Miedzynarodowy-zasob-literackich-metadanych-bibliograficznych/blob/main/literary-metadata1.png?raw=true)
 
 
 # Introduction to Our Bibliographic Metadata Collection
